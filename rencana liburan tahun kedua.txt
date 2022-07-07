@@ -1,6 +1,6 @@
 - pergi camping dengan diah
 - jalan jalan ke pulau seribu
-- pergi nanjak gunung
+  * main ke pulau bidadari
 - jalan jalan keluar kota bareng diah
 - ngelamar diah
 - nyicil rumah
